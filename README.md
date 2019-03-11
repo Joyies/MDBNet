@@ -3,7 +3,7 @@ This is the PyTorch version repo for Static Crowd Scene Analysis via Deep Networ
 
 <h2>Prerequisites</h2>
 
-Python: 2 or 3
+Python: 2 or 3<br/>
 PyTorch: 0.4.1
 <h2>Ground Truth</h2>
 Please follow the make_dataset.ipynb to generate the ground truth (In the python2). It shall take some time to generate the dynamic ground truth. Note you need to generate your own json file.
